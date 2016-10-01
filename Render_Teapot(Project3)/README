@@ -1,0 +1,9 @@
+team:
+	gu2@g.clemson.edu
+	rchang@g.clemson.edu
+
+compile:
+	make
+
+run:
+	./teapot teapot.605.obj
